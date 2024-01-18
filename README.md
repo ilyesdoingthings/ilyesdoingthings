@@ -33,8 +33,7 @@ Welcome to my Github Profile Page
 - :mortar_board: In partnership with Microsoft and by representing RFC as a Microsoft Azure and M365 expert Consultant, I was part of the Microsoft Education team in the Middle East and North Africa, in charge of assisting and training the IT teams of 3 ministries in Tunisia (Ministry of Education / Ministry of Higher Education and Scientific Research / Ministry of Vocational Training and Employers) on the different Microsoft Azure and Microsoft 365 services: Microsoft Azure Infrastructure : Azure Lab Services + Azure Virtual Desktop + Moodle and Canvas deployment on Azure + Azure App Services ( POC ) + Azure Arc ( POC ) + Azure Migration ( POC ) + Microsoft Azure Security : PIM + Key Vault + Storage Security + AKS and ACS + Azure Monitor + Microsoft defender for Cloud + Microsoft Sentinel + Azure WAF + Delivering workshops in the Microsoft 365 Security theme: Threat Protection + Endpoint and App Management + Identity and Access management + Information Governance & Protection + E-discovery and Auditing + Inside Risk Management + Delivering the two training courses: AZ 900 and AZ 104 for different IT Teams
 - ✍️ I create learning contents on Cloud and Tech - Modern Workplace, Netwkork, Cybersecurity, SCOM and Windows Server.
 - :loudspeaker: I am available for speaking engagement on IT empowerment
-
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ilyes_ennaceur)
+- :mailbox:How to reach me: ilyes.ennaceur.perso@gmail.com
 
 ---
 
