@@ -39,7 +39,6 @@ Welcome to my Github Profile Page
 
 ### :hammer_and_wrench: My Microsoft Certifications Badge :
 
-https://www.credly.com/users/ennaceur-ilyes/badges
 
 🌩️ SC 100 : Microsoft Cybersecurity Architect Expert <br>
 🌩️ AZ 305 : Microsoft Azure Solutions Architect Expert <br>
@@ -50,9 +49,7 @@ https://www.credly.com/users/ennaceur-ilyes/badges
 🌩️ SC 400 : Microsoft Iformation Protection Administrator <br>
 🌩️ AZ 700 : Microsoft Azure Network Engineer Associate <br>
 🌩️ AZ 104 : Microsoft Azure Administrator Associate <br>
-
-🌩️ MCT - Microsoft Certified Trainer 
-
+🌩️ MCT - Microsoft Certified Trainer <br>
 
 
 ### :fire: My Stats :
