@@ -6,7 +6,7 @@ M a CyberSecurity Consultant at RFC , and have had the privilege of working with
 
 I'm extremely passionate about Cloud Computing Networking and Security , productivity and collaboration, and in particular, helping IT Teams and Microsoft Community showcase their developer skills and use of Microsoft technologies. I work and contribute with an amazing team of Network and Security Architect , Engineers and lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites.
 
-I 💖 Microsoft Azure and M365 in particular, there extensibility ecosystem of extensions and connectors. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
+I 💖 Microsoft Azure and M365 in particular, there extensibility ecosystem of extensions and connectors. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing: <br>
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/ennaceur-ilyess">
@@ -20,7 +20,6 @@ I 💖 Microsoft Azure and M365 in particular, there extensibility ecosystem of 
   </a>
 </div>
 
-<br>
 <br>
 <h1>
 Welcome to my Github Profile Page
