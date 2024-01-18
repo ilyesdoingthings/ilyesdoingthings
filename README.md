@@ -8,7 +8,7 @@ I'm extremely passionate about Cloud Computing Networking and Security , product
 
 I 💖 Microsoft Azure and M365 in particular, there extensibility ecosystem of extensions and connectors. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing: <br>
 
-<div id="badges" align="center">
+<div id="badges" align="center"><br>
   <a href="https://linkedin.com/in/ennaceur-ilyess">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
