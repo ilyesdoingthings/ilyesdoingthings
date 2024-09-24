@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+ilyes+ENNACEUR;29+Years+old+from+Tunisia)](https://git.io/typing-svg)
-
-M a CyberSecurity Consultant at RFC , and have had the privilege of working with a bunch of super smart educators and Technical IT utilizing Microsoft Azure tools and services.
+M a CyberSecurity Consultant at DEVOTEAM FRANCE , and have had the privilege of working with a bunch of super smart educators and Technical IT utilizing Microsoft Azure tools and services.
 
 I'm extremely passionate about Cloud Computing Networking and Security , productivity and collaboration, and in particular, helping IT Teams and Microsoft Community showcase their developer skills and use of Microsoft technologies. I work and contribute with an amazing team of Network and Security Architect , Engineers and lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites.
 
